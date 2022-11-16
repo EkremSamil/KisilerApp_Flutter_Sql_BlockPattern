@@ -5,7 +5,7 @@
 
 ## Anasayfamız -> Kişilerin Kayıt Edilmesi -> Kayıt Edilen Kişi -> 
 
-<img src="https://user-images.githubusercontent.com/63926513/202239241-2c686c01-5045-4b3a-a0cd-199609d88c91.jpg" width="250" hspace="20"/>  <img src="https://user-images.githubusercontent.com/63926513/202239440-fb839b9a-68fe-4182-aeb0-d9978fe5930e.jpg" width="250" hspace="20"/> <img src="https://user-images.githubusercontent.com/63926513/202241983-61573822-1164-4904-a5d3-0eac62ed07d3.jpg" width="250" hspace="20"/> 
+<img src="https://user-images.githubusercontent.com/63926513/202239241-2c686c01-5045-4b3a-a0cd-199609d88c91.jpg" width="225" hspace="20"/>  <img src="https://user-images.githubusercontent.com/63926513/202239440-fb839b9a-68fe-4182-aeb0-d9978fe5930e.jpg" width="225" hspace="20"/> <img src="https://user-images.githubusercontent.com/63926513/202241983-61573822-1164-4904-a5d3-0eac62ed07d3.jpg" width="225" hspace="20"/> 
 
 <br> <br/>
 ## Anasayfa -> Herhangi bir kişiye tıklanılması ve güncellenen değerler -> Guncellenen Değerlerin Anasayfada Gösterimi
