@@ -1,16 +1,6 @@
-# kisiler_uygulamasi
+## Bloc Pattern mimarisi kullanılarak oluşturulmuş firebase tabanlı kişiler uygulaması 
 
-A new Flutter project.
 
-## Getting Started
+Görsel değişiklik yoktur tek fark firebase.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://user-images.githubusercontent.com/63926513/202318212-4f877337-75aa-452f-975c-4d3354f057f1.png)
